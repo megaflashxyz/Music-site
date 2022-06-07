@@ -96,7 +96,7 @@ $('.aplayer-icon.aplayer-icon-menu').click(function(){
 });
 
 var type = new Typed(".logo__text", {
-    strings: ["Music site"],
+    strings: ["CloudMusika"],
     typeSpeed: 60,
     backSpeed: 30,
     loop: true 
