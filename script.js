@@ -59,19 +59,19 @@ const ap = new APlayer({
     {
         name: 'Darkside',
         artist: 'Alan Walker',
-        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/Alan_Walker_-_Darkside_(feat__Au_Ra_and_Tomine_H_M-P4QBt-FWw_070219031311(0).mp3',
+        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/Alan_Walker_-_Darkside_(feat__Au_Ra_and_Tomine_H_M-P4QBt-FWw_070219031311(0).mp3?raw=true',
         cover: 'https://i1.sndcdn.com/artworks-000182052128-dhw4gd-t500x500.jpg'
     },
     {
         name: '1 of a kind',
         artist: 'Blaclite District',
-        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/blacklite district - 1 of a kind.mp3',
+        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/blacklite district - 1 of a kind.mp3?raw=true',
         cover: 'https://yt3.ggpht.com/ytc/AAUvwnjB1J4kWMYUz9gScniBFY_KFCgtU8UnOvP_TLTt4A=s900-c-k-c0x00ffffff-no-rj'
     },
     {
         name: 'Derniere-danse',
         artist: 'Indila',
-        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/indila-derniere-danse(mp3name.net).mp3',
+        url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/indila-derniere-danse(mp3name.net).mp3?raw=true',
         cover: 'https://static10.tgstat.ru/channels/_0/4b/4b5b5dfa6d97bd682c4377713aadcc48.jpg'
     },
     ]
