@@ -68,6 +68,12 @@ const ap = new APlayer({
         url: 'https://github.com/megaflashxyz/Music-site/blob/main/music/blacklite district - 1 of a kind.mp3?raw=true',
         cover: 'https://yt3.ggpht.com/ytc/AAUvwnjB1J4kWMYUz9gScniBFY_KFCgtU8UnOvP_TLTt4A=s900-c-k-c0x00ffffff-no-rj'
     },
+            {
+        name: 'MusicMix One',
+        artist: 'Xclusive',
+        url: 'https://www.dl.dropboxusercontent.com/s/fv1579q12rykr9q/MusicMix One.mp3?dl=0',
+        cover: 'https://media.bauerradio.com/image/upload/q_auto,c_fill,g_faces,w_500,h_500/v1610465305/shows/afryusijb0zs8xanwdvi.png'
+    },
     {
         name: 'Derniere-danse',
         artist: 'Indila',
