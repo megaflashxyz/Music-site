@@ -74,6 +74,18 @@ const ap = new APlayer({
         url: 'https://www.dl.dropboxusercontent.com/s/fv1579q12rykr9q/MusicMix One.mp3?dl=0',
         cover: 'https://media.bauerradio.com/image/upload/q_auto,c_fill,g_faces,w_500,h_500/v1610465305/shows/afryusijb0zs8xanwdvi.png'
     },
+                    {
+        name: 'Put On Your Sunday',
+        artist: 'Jerry Herman',
+        url: 'https://rawcdn.githack.com/Kerthin/musicPlayer-templateSait/4df6444e97123a39d036f1f9b57973858f70bae5/docs/music/JerryHerman_PutOnYourSundayClothes.mp3',
+        cover: 'https://media.bauerradio.com/image/upload/q_auto,c_fill,g_faces,w_500,h_500/v1610465305/shows/afryusijb0zs8xanwdvi.png'
+    },
+                    {
+        name: 'Pumped Up Kicks',
+        artist: 'Lujavo, New Beat Order, Donovans Playground &amp; Britt Lari',
+        url: 'https://www.dl.dropboxusercontent.com/s/c4h1qshnhvfknu0/Pumped%20Up%20Kicks%20%28Lujavo%2C%20New%20Beat%20Order%2C%20Donovan%27s%20Playground%20%26%20Britt%20Lari%29%20%28Magic%20Cover%20Release%29%20%28320%20kbps%29.mp3?dl=0',
+        cover: 'https://media.bauerradio.com/image/upload/q_auto,c_fill,g_faces,w_500,h_500/v1610465305/shows/afryusijb0zs8xanwdvi.png'
+    },
     {
         name: 'Derniere-danse',
         artist: 'Indila',
